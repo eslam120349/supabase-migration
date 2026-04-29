@@ -1,0 +1,6 @@
+npm init -y
+npm install @supabase/supabase-js
+
+touch migrate.js
+
+node migrate.js
